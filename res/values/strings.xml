@@ -4,5 +4,6 @@
     <string name="app_name">Attendance Manager</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="subject_hint">Add new subject...</string>
 
 </resources>
